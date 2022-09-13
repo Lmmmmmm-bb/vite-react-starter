@@ -1,0 +1,42 @@
+# Vite React Starter
+
+> It is strongly recommended to use [degit](https://github.com/Rich-Harris/degit) to clone this repository. It will delete **README.md** and **degit.json** file when clone.
+
+## Something inside
+
+- **Vite** - Next Generation Frontend Tooling
+- **React** - JavaScript library for building user interfaces
+- **TypeScript** - A language for application-scale JavaScript
+- **ESLint** - Find and fix problems in your JavaScript code
+- **Prettier** - An opinionated code formatter
+
+## Todo
+
+- **Vitest** - A Vite-native test framework
+- **Cypress** - Fast, easy and reliable testing for anything that runs in a browser
+- _something more..._
+
+## Getting started
+
+1. Clone the template repo.
+
+```bash
+degit git@github.com:Lmmmmmm-bb/vite-react-starter.git your-project
+```
+
+2. Initialize git repository.
+
+```bash
+git init
+```
+
+3. Install dependencies & Start dev server.
+
+```bash
+pnpm i
+pnpm dev
+```
+
+## License
+
+This project is licensed under the MIT License.
