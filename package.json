@@ -1,7 +1,7 @@
 {
   "name": "react-vite",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.0",
   "license": "MIT",
   "packageManager": "pnpm@7.9.5",
   "author": {
@@ -14,7 +14,7 @@
     "preview": "vite preview",
     "lint:fix": "eslint --ext .tsx,.ts,.js . --fix",
     "lint:check": "prettier --check .",
-    "lint:rewrite": "prettier --write .",
+    "lint:format": "prettier --write .",
     "prepare": "husky install",
     "style:watch": "typed-scss-modules src --watch --ignore \"**/index.scss\""
   },
