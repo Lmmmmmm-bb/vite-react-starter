@@ -1,20 +1,15 @@
 {
-  "name": "react-vite",
+  "name": "vite-react-starter",
   "private": true,
-  "version": "0.0.0",
   "license": "MIT",
-  "packageManager": "pnpm@7.9.5",
-  "author": {
-    "email": "lmmmmmm12138@gmail.com",
-    "name": "_lmmmmmm"
-  },
+  "packageManager": "pnpm@7.12.2",
   "scripts": {
-    "dev": "vite & pnpm style:watch",
+    "dev": "vite --host & pnpm style:watch",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "lint:fix": "eslint --ext .tsx,.ts,.js . --fix",
     "lint:check": "prettier --check .",
     "lint:format": "prettier --write .",
+    "lint:fix": "eslint --ext .tsx,.ts,.js . --fix",
     "prepare": "husky install",
     "style:watch": "typed-scss-modules src --watch --ignore \"**/index.scss\""
   },

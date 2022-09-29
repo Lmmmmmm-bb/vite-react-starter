@@ -44,4 +44,4 @@ pnpm dev
 
 ## License
 
-[MIT](./LICENSE) License © 2022-PRESENT [\_lmmmmmm](https://github.com/Lmmmmmm-bb)
+[**MIT**](./LICENSE) License © 2022-PRESENT [\_lmmmmmm](https://github.com/Lmmmmmm-bb)
