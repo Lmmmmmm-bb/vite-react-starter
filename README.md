@@ -17,7 +17,6 @@
 ## Todo
 
 - **Vitest** - A Vite-native test framework
-- **Styled Components** - Visual primitives for the component age
 - **Cypress** - Fast, easy and reliable testing for anything that runs in a browser
 - _something more..._
 
