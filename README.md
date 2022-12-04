@@ -1,4 +1,4 @@
-# Vite React Starter
+# vite-react-starter
 
 [![GitHub license](https://img.shields.io/github/license/Lmmmmmm-bb/vite-react-starter)](https://github.com/Lmmmmmm-bb/vite-react-starter/blob/main/LICENSE)
 
@@ -17,7 +17,6 @@
 ## Todo
 
 - **Vitest** - A Vite-native test framework
-- **Cypress** - Fast, easy and reliable testing for anything that runs in a browser
 - _something more..._
 
 ## Getting started
