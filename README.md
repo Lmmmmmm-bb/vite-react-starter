@@ -16,6 +16,7 @@
 
 ## Todo
 
+- **React Query** - Powerful asynchronous state management, server-state utilities and data fetching
 - **Vitest** - A Vite-native test framework
 - _something more..._
 
