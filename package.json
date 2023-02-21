@@ -1,6 +1,5 @@
 {
   "name": "vite-react-starter",
-  "private": true,
   "license": "MIT",
   "packageManager": "pnpm@7.17.1",
   "scripts": {
