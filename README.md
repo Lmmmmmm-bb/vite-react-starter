@@ -1,6 +1,7 @@
 # vite-react-starter
 
 [![GitHub license](https://img.shields.io/github/license/Lmmmmmm-bb/vite-react-starter)](https://github.com/Lmmmmmm-bb/vite-react-starter/blob/main/LICENSE)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/Lmmmmmm-bb/vite-react-starter)
 
 > It is strongly recommended to use [degit](https://github.com/Rich-Harris/degit) to clone this repository. It will delete **README.md** and **degit.json** file when clone.
 
