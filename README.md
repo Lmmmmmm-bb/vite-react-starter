@@ -1,7 +1,7 @@
 # vite-react-starter
 
-[![GitHub license](https://img.shields.io/github/license/Lmmmmmm-bb/vite-react-starter)](https://github.com/Lmmmmmm-bb/vite-react-starter/blob/main/LICENSE)
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/Lmmmmmm-bb/vite-react-starter)
+[![GitHub license](https://img.shields.io/github/license/Lmmmmmm-bb/vite-react-starter)](https://github.com/Lmmmmmm-bb/vite-react-starter/blob/main/LICENSE)
 
 > It is strongly recommended to use [degit](https://github.com/Rich-Harris/degit) to clone this repository. It will delete **README.md** and **degit.json** file when clone.
 
@@ -13,7 +13,7 @@
 - **CSS Module** - Write styles in CSS files but consume them as JavaScript objects
 - **TypeScript** - A language for application-scale JavaScript
 - **ESLint** - Find and fix problems in your JavaScript code
-- **Prettier** - An opinionated code formatter
+- ~~**Prettier** - An opinionated code formatter~~ (Use ESLint instead)
 
 ## Todo
 
