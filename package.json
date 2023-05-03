@@ -1,6 +1,6 @@
 {
   "name": "vite-react-starter",
-  "packageManager": "pnpm@7.17.1",
+  "packageManager": "pnpm@8.3.1",
   "license": "MIT",
   "scripts": {
     "dev": "vite --host & pnpm style:watch",
@@ -13,23 +13,23 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.57.1"
+    "sass": "^1.62.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.3.0",
-    "@commitlint/config-conventional": "^17.3.0",
-    "@lmmmmmm/eslint-config": "^0.0.2",
-    "@lmmmmmm/eslint-config-react": "^0.0.2",
-    "@types/node": "^18.11.17",
-    "@types/react": "^18.0.26",
-    "@types/react-dom": "^18.0.10",
-    "@vitejs/plugin-react": "^3.0.0",
-    "eslint": "^8.30.0",
-    "husky": "^8.0.2",
-    "lint-staged": "^13.1.0",
-    "typed-scss-modules": "^7.0.1",
-    "typescript": "^4.9.4",
-    "vite": "^4.0.3"
+    "@commitlint/cli": "^17.6.1",
+    "@commitlint/config-conventional": "^17.6.1",
+    "@lmmmmmm/eslint-config": "^0.1.0",
+    "@lmmmmmm/eslint-config-react": "^0.1.0",
+    "@types/node": "^18.16.2",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.39.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "typed-scss-modules": "^7.1.0",
+    "typescript": "^5.0.4",
+    "vite": "^4.3.3"
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint . --fix"
