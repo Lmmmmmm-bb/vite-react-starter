@@ -11,6 +11,7 @@
     "style:watch": "typed-scss-modules **/index.module.scss --watch"
   },
   "dependencies": {
+    "@unocss/reset": "^0.53.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
