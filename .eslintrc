@@ -1,3 +1,6 @@
 {
-  "extends": ["@lmmmmmm", "@lmmmmmm/eslint-config-react"]
+  "extends": ["@lmmmmmm", "@lmmmmmm/eslint-config-react"],
+  "rules": {
+    "react/no-unknown-property": "off"
+  }
 }
