@@ -19,6 +19,7 @@
 
 - **React Query** - Powerful asynchronous state management, server-state utilities and data fetching
 - **Vitest** - A Vite-native test framework
+- **Zustand** - A small, fast and scalable bearbones state-management solution
 - _something more..._
 
 ## Getting started
