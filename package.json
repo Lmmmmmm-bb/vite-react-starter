@@ -1,6 +1,6 @@
 {
   "name": "vite-react-starter",
-  "packageManager": "pnpm@8.8.0",
+  "packageManager": "pnpm@8.10.2",
   "license": "MIT",
   "scripts": {
     "dev": "vite --host & pnpm style:watch",
@@ -11,29 +11,29 @@
     "style:watch": "typed-scss-modules ./src/**/index.module.scss --watch"
   },
   "dependencies": {
-    "@unocss/reset": "^0.53.1",
+    "@unocss/reset": "^0.57.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.7.1",
-    "@commitlint/config-conventional": "^17.7.0",
+    "@commitlint/cli": "^18.2.0",
+    "@commitlint/config-conventional": "^18.1.0",
     "@lmmmmmm/eslint-config": "^0.3.0",
     "@lmmmmmm/eslint-config-react": "^0.3.0",
-    "@types/node": "^20.0.0",
-    "@types/react": "^18.2.8",
-    "@types/react-dom": "^18.2.4",
-    "@unocss/preset-attributify": "^0.53.1",
-    "@unocss/transformer-attributify-jsx": "^0.53.1",
-    "@vitejs/plugin-react": "^4.0.0",
-    "eslint": "^8.42.0",
+    "@types/node": "^20.8.10",
+    "@types/react": "^18.2.34",
+    "@types/react-dom": "^18.2.14",
+    "@unocss/preset-attributify": "^0.57.2",
+    "@unocss/transformer-attributify-jsx": "^0.57.2",
+    "@vitejs/plugin-react": "^4.1.1",
+    "eslint": "^8.53.0",
     "husky": "^8.0.3",
-    "lint-staged": "^14.0.1",
-    "sass": "^1.66.1",
+    "lint-staged": "^15.0.2",
+    "sass": "^1.69.5",
     "typed-scss-modules": "^7.1.4",
     "typescript": "^5.2.2",
-    "unocss": "^0.53.1",
-    "vite": "^4.4.9"
+    "unocss": "^0.57.2",
+    "vite": "^4.5.0"
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint . --fix"
