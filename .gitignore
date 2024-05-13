@@ -23,8 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# Scss module types
-*.module.scss.d.ts
-
 # Shell
 deploy.sh
