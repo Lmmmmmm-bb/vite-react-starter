@@ -5,6 +5,9 @@ export default {
     './index.html',
     './src/**/*.{ts,tsx}',
   ],
+  future: {
+    hoverOnlyWhenSupported: true,
+  },
   theme: {
     extend: {},
   },

@@ -9,15 +9,14 @@
 
 - **Vite** - Next Generation Frontend Tooling
 - **React** - JavaScript library for building user interfaces
-- **Scss** - Makes CSS fun again
-- **CSS Module** - Write styles in CSS files but consume them as JavaScript objects
 - **TypeScript** - A language for application-scale JavaScript
 - **ESLint** - Find and fix problems in your JavaScript code
 - ~~**Prettier** - An opinionated code formatter~~ (Use ESLint instead)
+- ~~**Scss** - Makes CSS fun again~~ (Use Tailwind CSS instead)
+- ~~**CSS Module** - Write styles in CSS files but consume them as JavaScript objects~~ (Use Tailwind CSS instead)
 
 ## Todo
 
-- **React Query** - Powerful asynchronous state management, server-state utilities and data fetching
 - **Vitest** - A Vite-native test framework
 - **Zustand** - A small, fast and scalable bearbones state-management solution
 - _something more..._
@@ -45,4 +44,4 @@ pnpm dev
 
 ## License
 
-[**MIT**](./LICENSE) License © 2023 [_lmmmmmm](https://github.com/Lmmmmmm-bb)
+[**MIT**](./LICENSE) License © 2024 [_lmmmmmm](https://github.com/Lmmmmmm-bb)
