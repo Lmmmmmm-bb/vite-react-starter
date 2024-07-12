@@ -7,8 +7,7 @@
     "dev": "vite --host",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "lint": "eslint . --fix",
-    "prepare": "husky install"
+    "lint": "eslint . --fix"
   },
   "dependencies": {
     "react": "^18.3.1",
