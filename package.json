@@ -1,7 +1,7 @@
 {
   "name": "vite-react-starter",
   "type": "module",
-  "packageManager": "pnpm@9.15.2",
+  "packageManager": "pnpm@10.4.1",
   "license": "MIT",
   "scripts": {
     "dev": "vite --host",
@@ -14,23 +14,23 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^3.12.1",
-    "@eslint-react/eslint-plugin": "^1.22.2",
-    "@stylistic/eslint-plugin": "^2.12.1",
-    "@tailwindcss/vite": "^4.0.1",
-    "@types/node": "^22.10.2",
-    "@types/react": "^19.0.2",
-    "@types/react-dom": "^19.0.2",
+    "@antfu/eslint-config": "^4.3.0",
+    "@eslint-react/eslint-plugin": "^1.26.2",
+    "@stylistic/eslint-plugin": "^4.0.1",
+    "@tailwindcss/vite": "^4.0.7",
+    "@types/node": "^22.13.4",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^4.3.4",
-    "eslint": "^9.17.0",
+    "eslint": "^9.20.1",
     "eslint-plugin-react-hooks": "^5.1.0",
-    "eslint-plugin-react-refresh": "^0.4.16",
+    "eslint-plugin-react-refresh": "^0.4.19",
     "husky": "^9.1.7",
-    "lint-staged": "^15.3.0",
+    "lint-staged": "^15.4.3",
     "simple-git-hooks": "^2.11.1",
-    "tailwindcss": "^4.0.1",
-    "typescript": "^5.7.2",
-    "vite": "^6.0.6"
+    "tailwindcss": "^4.0.7",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.1"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"
